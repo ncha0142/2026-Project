@@ -1,0 +1,68 @@
+location (col 1)
+precentral
+superior frontal
+middle frontal
+opercular
+triangular
+pars orbitalis
+rolandic
+supplementary motor
+olfactory
+superior frontal gyrus, medial
+superior frontal gyrus, medial orbital
+rectus
+medial orbital
+anterior orbital
+posterior orbital
+lateral orbital
+insula
+anterior cingulate
+middle cingulate
+posterior cingulate
+hippocampus
+parahippocampal
+amygdala
+calcarine
+cuneus
+lingual
+superior occipital
+middle occipital
+inferior occipital
+fusiform
+postcentral
+superior parietal
+inferior parietal
+supramarginal
+angular 
+precuneus
+paracentral
+caudate
+putamen
+pallidum
+heschl
+superior temporal
+temporal pole
+middle temporal
+temporal pole
+inferior temporal
+crus
+cerebellum
+vermis
+thalamus
+anteroventral nucleus thalamus
+lateral posterior thalamus
+ventral anterior thalamus
+ventral lateral thalamus
+ventral posterolateral thalamus
+intralaminar thalamus
+reuniens thalamus
+mediodorsal medial magnocellular thalamus
+mediodorsal lateral parvocellular thalamus
+lateral geniculate thalamus
+medial geniculate thalamus
+pulvinar anterior thalamus
+pulvinar medial thalamus
+pulvinar lateral thalamus
+pulvinar inferior thalamus
+nucleus limitans thalamus (not in AAL3)
+reticular nucleus thalamus (not in AAL3)
