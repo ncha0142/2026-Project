@@ -64,5 +64,5 @@ pulvinar anterior thalamus
 pulvinar medial thalamus
 pulvinar lateral thalamus
 pulvinar inferior thalamus
-nucleus limitans thalamus (not in AAL3)
-reticular nucleus thalamus (not in AAL3)
+nucleus limitans thalamus
+reticular nucleus thalamus

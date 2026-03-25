@@ -1,0 +1,68 @@
+﻿Location,Replacement,Display
+precentral,precentral,precentral
+superior frontal,frontal_sup,superior frontal
+middle frontal,frontal_mid,middle frontal
+opercular,frontal_inf_oper,opercular
+triangular,frontal_inf_tri,triangular
+pars orbitalis,frontal_inf_orb,pars orbitalis
+rolandic,rolandic_oper,rolandic
+supplementary motor,supp_motor_area,supplementary motor
+olfactory,olfactory,olfactory
+"superior frontal gyrus, medial",frontal_sup_medial,"superior frontal gyrus, medial"
+"superior frontal gyrus, medial orbital",frontal_med_orb,"superior frontal gyrus, medial orbital"
+rectus,rectus,rectus
+medial orbital,ofcmed,medial orbital
+anterior orbital,ofcant,anterior orbital
+posterior orbital,ofcpost,posterior orbital
+lateral orbital,ofclat,lateral orbital
+insula,insula,insula
+anterior cingulate,cingulate_ant,anterior cingulate
+middle cingulate,cingulate_mid,middle cingulate
+posterior cingulate,cingulate_post,posterior cingulate
+hippocampus,hippocampus,hippocampus
+parahippocampal,parahippocampal,parahippocampal
+amygdala,amygdala,amygdala
+calcarine,calcarine,calcarine
+cuneus,cuneus,cuneus
+lingual,lingual,lingual
+superior occipital,occipital_sup,superior occipital
+middle occipital,occipital_mid,middle occipital
+inferior occipital,occipital_inf,inferior occipital
+fusiform,fusiform,fusiform
+postcentral,postcentral,postcentral
+superior parietal,parietal_sup,superior parietal
+inferior parietal,parietal_inf,inferior parietal
+supramarginal,supramarginal,supramarginal
+ angular ,angular,angular 
+precuneus,precuneus,precuneus
+paracentral,paracentral_lobule,paracentral
+caudate,caudate,caudate
+putamen,putamen,putamen
+pallidum,pallidum,pallidum
+heschl,heschl,heschl
+superior temporal,temporal_sup,superior temporal
+temporal pole,temporal_pole_sup,temporal pole
+middle temporal,temporal_mid,middle temporal
+temporal pole,temporal_pole_mid,temporal pole
+inferior temporal,temporal_inf,inferior temporal
+crus,cerebellum_crus,crus
+cerebellum,cerebellum_aal,cerebellum
+vermis,vermis,vermis
+thalamus,thalamus,thalamus
+anteroventral nucleus thalamus,thal_av,anteroventral nucleus thalamus
+lateral posterior thalamus,thal_lp,lateral posterior thalamus
+ventral anterior thalamus,thal_va,ventral anterior thalamus
+ventral lateral thalamus,thal_vl,ventral lateral thalamus
+ventral posterolateral thalamus,thal_vpl,ventral posterolateral thalamus
+intralaminar thalamus,thal_il,intralaminar thalamus
+reuniens thalamus,thal_re,reuniens thalamus
+mediodorsal medial magnocellular thalamus,thal_mdm,mediodorsal medial magnocellular thalamus
+mediodorsal lateral parvocellular thalamus,thal_mdl,mediodorsal lateral parvocellular thalamus
+lateral geniculate thalamus,thal_lgn,lateral geniculate thalamus
+medial geniculate thalamus,thal_mgn,medial geniculate thalamus
+"pulvinar anterior thalamus,",thal_pua,pulvinar anterior thalamus
+pulvinar medial thalamus,thal_pum,pulvinar medial thalamus
+pulvinar lateral thalamus,thal_pul,pulvinar lateral thalamus
+pulvinar inferior thalamus,thal_pui,pulvinar inferior thalamus
+nucleus limitans thalamus,thal_nucleus_limitans,nucleus limitans thalamus
+"reticular nucleus thalamus,",thal_reticular_nucleus,reticular nucleus thalamus
