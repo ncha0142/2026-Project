@@ -1,2 +1,8 @@
 /.venv
 /Assets
+/fetched_pdfs
+/valid_pdfs
+/Outputs
+corpus.csv
+__pycache__/
+.vscode/
