@@ -99,7 +99,7 @@ class outputs:
     #Input: Path to image mask ie. "usr/Documents/Folder" default is head.png
     #Input: Path to save location ie. "usr/Documents/Folder" default is downloads folder
     #Output: Saves a freq_WordCloud.png to save_location
-    def wc(list, shape_path = r"C:\Users\noahj\Desktop\Prof Phan Research\2026 Project\Assets\head.png", save_location = downloads_path):
+    def wc(list, shape_path = r"C:\Users\noahj\Desktop\Prof Phan Research\2026 Project\head.png", save_location = downloads_path):
         total = Counter(list).most_common()
     
         brain_mask = np.array(Image.open(shape_path))
